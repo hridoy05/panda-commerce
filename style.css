@@ -21,4 +21,57 @@
     padding: 9px 25px;
     border: none;
     color: white;
+    border-radius: 5px;
+}
+
+.cat-1,
+.cat-2,
+.cat-3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat-1 {
+    background-color: orange;
+}
+
+.cat-2 {
+    background-color: orchid;
+}
+
+.cat-3 {
+    background-color: blue;
+}
+
+.catagories h1 {
+    color: white;
+}
+
+.catagories img {
+    width: 100px;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 5px;
+    border-radius: 5px;
+}
+
+.card-footer {
+    background-color: white;
+    border-top: none;
+    text-align: center;
+}
+
+#subcribe {
+    height: 300px;
+}
+
+#subcribe h6 {
+    color: grey;
+}
+
+footer {
+    text-align: center;
 }
